@@ -8,6 +8,12 @@ An interactive overhead-stage guide for rehearsing the Dishari Fashion Show form
 
 The hub works on phones, tablets, and computers.
 
+## Master script
+
+**[Read the complete fashion-show script](SCRIPT.md)**
+
+`SCRIPT.md` is the controlled master version. A Google Docs copy may be used for collaboration and comments, with approved revisions transferred back here.
+
 ## How to use it
 
 1. Select an act and scene from the menu.
