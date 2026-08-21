@@ -90,7 +90,7 @@ Strong musical hit.
 **Structure status:** LOCKED — scene order, featured-model assignments and timestamps will not change; poses, emotions and prop details may still be refined.  
 **Duration:** 8–8½ minutes  
 **Show time:** 1:30–10:00  
-**Models:** A1–A7  
+**Participants:** Mustufa, Jaya, Preeti, Prerna, Yogita, Akash, **TBD**  
 **Props:** Two medium vintage-style suitcases; two long Indian textile panels packed inside; optional winter accessories already worn by models  
 **Costumes:** Indian or Indo-Western base looks covered partially by practical coats, cardigans, neutral shawls or travel layers
 
@@ -118,9 +118,9 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Time | Audio and screen | Movement |
 |---|---|---|
-| 0:00–0:10 | Airport ambience. **THE WEIGHT WE CARRIED — INDIA → AMERICA** | A1/A2 roll the two suitcases to UL/UR. |
-| 0:10–0:38 | Voiceover over soft music | A1/A2 leave the suitcases and make mirrored outside-lane walks to DL/DR. Each holds one restrained travel pose: shoulders squared, one hand briefly returning toward the suitcase behind. |
-| 0:38–1:20 | Strong journey music. **DEPARTURE → IN TRANSIT → ARRIVAL** | A1 walks UL→DR; A2 walks UR→DL four counts later. They pass once at C without looking at each other, showing two separate journeys. |
+| 0:00–0:10 | Airport ambience. **THE WEIGHT WE CARRIED — INDIA → AMERICA** | Mustufa/Jaya roll the two suitcases to UL/UR. |
+| 0:10–0:38 | Voiceover over soft music | Mustufa/Jaya leave the suitcases and make mirrored outside-lane walks to DL/DR. Each holds one restrained travel pose: shoulders squared, one hand briefly returning toward the suitcase behind. |
+| 0:38–1:20 | Strong journey music. **DEPARTURE → IN TRANSIT → ARRIVAL** | Mustufa walks UL→DR; Jaya walks UR→DL four counts later. They pass once at C without looking at each other, showing two separate journeys. |
 | 1:20–1:45 | **NEW COUNTRY. NO INSTRUCTIONS.** | They hold opposing front-corner poses, turn toward the unfamiliar skyline, then exit through opposite wings. The two suitcases remain lit upstage. |
 
 **Voiceover**
@@ -136,9 +136,9 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Time | Audio and screen | Movement |
 |---|---|---|
-| 0:00–0:12 | Wind; snow grows into a storm. **FIRST WINTER** | A3/A4 enter slowly from opposite wings, coats closed and scarves held close. |
+| 0:00–0:12 | Wind; snow grows into a storm. **FIRST WINTER** | Preeti/Prerna enter slowly from opposite wings, coats closed and scarves held close. |
 | 0:12–0:42 | Voiceover over restrained music | They follow two broad mirrored curves, pausing once as if bracing against wind. The gesture is large and held—not acted repeatedly. |
-| 0:42–1:05 | Strong instrumental pulse | A3 reaches DL and A4 reaches DR. Each removes or loosens one winter accessory, then opens the coat to reveal Indian fabric underneath. |
+| 0:42–1:05 | Strong instrumental pulse | Preeti reaches DL and Prerna reaches DR. Each removes or loosens one winter accessory, then opens the coat to reveal Indian fabric underneath. |
 | 1:05–1:20 | Musical hit | They turn three-quarters to display the layered outfits, face front for the final reveal pose, then exit. |
 
 **Voiceover**
@@ -156,12 +156,12 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 |---|---|---|
 | 0:00–0:15 | Loud Indian street: horns, vendors, chai glasses, conversation. Busy neighborhood video. | Stage remains open. |
 | 0:15–0:18 | Hard cut to a silent American suburb. **FIRST HOME. THE SILENCE WAS LOUD.** | Two full seconds of stillness. |
-| 0:18–0:58 | Voiceover with faint clock/breathing pulse | A5 walks UL→DR; A6 walks UR→DL four counts later. Both scan the empty width rather than reacting to each other. |
+| 0:18–0:58 | Voiceover with faint clock/breathing pulse | Yogita walks UL→DR; Akash walks UR→DL four counts later. Both scan the empty width rather than reacting to each other. |
 | 0:58–1:28 | No voiceover; minimal atmosphere | They cross the full downstage width in opposite directions, stop at the far corners and hold their shawls close. |
-| 1:28–1:48 | Near-silence | A5/A6 turn inward and take slow curved routes toward C, leaving the outer stage visibly empty. |
+| 1:28–1:48 | Near-silence | Yogita/Akash turn inward and take slow curved routes toward C, leaving the outer stage visibly empty. |
 | 1:48–2:00 | One chai-glass clink; faint Indian melody | They meet at C, release the shawls slightly in relief, share one forward-facing pose and exit together. |
 
-**Visibility:** Only A5/A6 perform this scene. The other five remain offstage or fully dark.
+**Visibility:** Only Yogita/Akash perform this scene. The other five remain offstage or fully dark.
 
 **Voiceover**
 
@@ -177,10 +177,10 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Time | Audio and screen | Movement |
 |---|---|---|
-| 0:00–0:25 | Voiceover; one diya appears. | A7 enters alone carrying one safe LED diya or one folded Indian textile. |
-| 0:25–0:55 | Faint Indian melody grows. | A7 walks UC→DC, kneels or bends once to place the diya at C, then rises slowly. No other acting is required. |
-| 0:55–1:18 | **ONE LIGHT BECAME MANY.** | A7 opens the textile across both arms or performs one warm open-chest pose as projected diyas multiply behind. |
-| 1:18–1:35 | Percussion begins to build | A7 holds beside the diya and turns toward the two suitcase corners. Lights rise on the suitcases, preparing the community reveal. |
+| 0:00–0:25 | Voiceover; one diya appears. | TBD enters alone carrying one safe LED diya or one folded Indian textile. |
+| 0:25–0:55 | Faint Indian melody grows. | TBD walks UC→DC, kneels or bends once to place the diya at C, then rises slowly. No other acting is required. |
+| 0:55–1:18 | **ONE LIGHT BECAME MANY.** | TBD opens the textile across both arms or performs one warm open-chest pose as projected diyas multiply behind. |
+| 1:18–1:35 | Percussion begins to build | TBD holds beside the diya and turns toward the two suitcase corners. Lights rise on the suitcases, preparing the community reveal. |
 
 **Voiceover**
 
@@ -196,9 +196,9 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Time | Audio and screen | Movement |
 |---|---|---|
-| 0:00–0:25 | Voiceover; **WHAT WE PACKED / WHAT WE CARRIED** | A7 remains at C beside the diya. A1/A2 enter once, open the cases and extend one textile each toward center. |
-| 0:25–0:55 | Music builds | A3/A4 enter on mirrored curves and take two middle diagonal marks; A5/A6 enter from opposite wings and take the widest marks. Each pair performs one costume-facing pose, then holds. |
-| 0:55–1:12 | Strong classical-crossover music | A7 completes the only hero walk through the open center lane while the six frame the two textiles. |
+| 0:00–0:25 | Voiceover; **WHAT WE PACKED / WHAT WE CARRIED** | TBD remains at C beside the diya. Mustufa/Jaya enter once, open the cases and extend one textile each toward center. |
+| 0:25–0:55 | Music builds | Preeti/Prerna enter on mirrored curves and take two middle diagonal marks; Yogita/Akash enter from opposite wings and take the widest marks. Each pair performs one costume-facing pose, then holds. |
+| 0:55–1:12 | Strong classical-crossover music | TBD completes the only hero walk through the open center lane while the six frame the two textiles. |
 | 1:12–1:30 | Instrumental continues | Everyone makes one direct adjustment into the two clean suitcase-to-DC diagonals—no additional crossing sequence. |
 | 1:30–1:44 | Final voiceover over restrained music | Formation and textiles held. Lighting grows. |
 | 1:44–1:50 | Full musical hit | Final pose and blackout. |
@@ -229,11 +229,11 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Story unit | Featured models | What they show |
 |---|---:|---|
-| Departure | A1/A2 | Arrive with the two suitcases; mirrored journey walks |
-| First Winter | A3/A4 | Coats, cold and layered-clothing reveal |
-| First Home: Silence | A5/A6 | Walk across the empty stage searching for familiar sound |
-| First Festival | A7 initially | Lights one diya or opens one Indian textile; community begins |
-| Act-ending reveal | All seven | Everyone joins A7; suitcases open; final suitcase diagonals |
+| Departure | Mustufa/Jaya | Arrive with the two suitcases; mirrored journey walks |
+| First Winter | Preeti/Prerna | Coats, cold and layered-clothing reveal |
+| First Home: Silence | Yogita/Akash | Walk across the empty stage searching for familiar sound |
+| First Festival | TBD initially | Lights one diya or opens one Indian textile; community begins |
+| Act-ending reveal | All seven | Everyone joins TBD; suitcases open; final suitcase diagonals |
 
 ## Music direction
 
@@ -254,7 +254,7 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 - Start the second crossing model four counts later to prevent a center collision.
 - Use the entire stage width and depth; avoid repeatedly funneling everyone through downstage-center.
 - Use diagonal crossings for travel and broad lateral or curved routes during the survival chapters.
-- The only shared handling is A1/A2 opening the suitcases and extending the textiles.
+- The only shared handling is Mustufa/Jaya opening the suitcases and extending the textiles.
 - If long textiles prove difficult, replace them with two pre-folded 6–8 foot dupattas or banners.
 
 ---
@@ -268,8 +268,8 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 **Show time:** 10:30–19:15  
 **Duration:** 8:45  
 **Structure status:** LOCKED — scene order, featured-model assignments and timestamps will not change; poses, emotions and prop details may still be refined.  
-**Models:** B1–B7  
-**Formation captains:** B1, B4 and B7 — assign the strongest walkers  
+**Participants:** Kanika, Advaito, Neha, Pooja, Brinto, Pooja (Jag), **TBD**  
+**Formation captains:** Kanika, Pooja and **TBD** — assign the strongest walkers  
 **Props:** reversible name badges and two empty photo frames  
 **Costumes:** coordinated Western neutrals concealing bold fusion details
 
@@ -287,7 +287,7 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:20 | **FITTING-IN PROTOCOL: APPROVED** | B1/B2 enter from opposite wings on two straight, parallel corporate lanes. Jackets remain closed and badges face front. |
+| 0:00–0:20 | **FITTING-IN PROTOCOL: APPROVED** | Kanika/Advaito enter from opposite wings on two straight, parallel corporate lanes. Jackets remain closed and badges face front. |
 | 0:20–0:50 | Short voiceover | They pass four counts apart, stop at DL/DR and perform matching gestures: straighten badge, adjust cuff, then face front. |
 | 0:50–1:08 | **BLEND IN. MOVE FORWARD.** | They repeat the same paths in reverse with deliberately identical pacing and restrained poses. |
 | 1:08–1:20 | System-approved tone | Matching final pose—feet planted, shoulders square, expression neutral—then opposite-wing exits. |
@@ -304,7 +304,7 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:20 | Two full names appear. | B3/B4 enter from UL/UR wearing large readable full-name badges. |
+| 0:00–0:20 | Two full names appear. | Neha/Pooja enter from UL/UR wearing large readable full-name badges. |
 | 0:20–0:48 | Names are mispronounced on screen. | They walk opposite diagonals to DL/DR, stopping once beneath their projected full names for a confident fashion pose. |
 | 0:48–1:08 | Names shorten on screen. | Each turns the badge to the shortened side. Their second pose becomes smaller and more controlled: shoulders narrow, one hand covering part of the badge. |
 | 1:08–1:22 | **NAME EDIT: COMPLETE** | They cross the downstage width, exchanging sides without looking at each other. |
@@ -324,11 +324,11 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:15 | **THE PERFECT IMMIGRANT** | Two lightweight frames are preset at DL/DR. B5/B6 enter from opposite wings. |
+| 0:00–0:15 | **THE PERFECT IMMIGRANT** | Two lightweight frames are preset at DL/DR. Brinto/Pooja (Jag) enter from opposite wings. |
 | 0:15–0:48 | **POLISHED / GRATEFUL / SUCCESSFUL** | Each steps inside one frame and holds the same polished pose: chin lifted, one hand at waist or lapel, outfit squared to the audience. |
 | 0:48–1:08 | Identical profile cards appear. | They step out, cross once on broad opposite curves and approach the other frame. |
 | 1:08–1:23 | **WHO DECIDED THE FRAME?** | Instead of stepping inside again, both walk around the outside edge of the frames. |
-| 1:23–1:35 | Visual frames fracture. | B5/B6 pose beside—not inside—the frames, each resting one hand lightly on a frame edge, then exit. |
+| 1:23–1:35 | Visual frames fracture. | Brinto/Pooja (Jag) pose beside—not inside—the frames, each resting one hand lightly on a frame edge, then exit. |
 
 **Voiceover**
 
@@ -345,17 +345,17 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:30 | Voiceover; **IDENTITY FILE: REOPENED** | B7 enters alone through UC, walks between the two empty frames without entering either one and stops at C. |
-| 0:30–0:58 | Beat strengthens | B7 turns the badge to the full name, opens the neutral outer layer and reveals the bold fusion styling underneath. |
-| 0:58–1:28 | **FULL NAME. FULL SELF.** | B7 completes a slow C→DC hero walk. The pose is expansive: shoulders open, full-name badge visible, outer layer held away from the outfit. |
-| 1:28–1:48 | Voiceover resolves | B7 turns toward the two abandoned frames, then faces front again—rejecting them without touching or acting against them. |
-| 1:48–2:00 | Rebel beat begins | B7 moves back to C and holds, becoming the trigger for Scene 5. |
+| 0:00–0:30 | Voiceover; **IDENTITY FILE: REOPENED** | TBD enters alone through UC, walks between the two empty frames without entering either one and stops at C. |
+| 0:30–0:58 | Beat strengthens | TBD turns the badge to the full name, opens the neutral outer layer and reveals the bold fusion styling underneath. |
+| 0:58–1:28 | **FULL NAME. FULL SELF.** | TBD completes a slow C→DC hero walk. The pose is expansive: shoulders open, full-name badge visible, outer layer held away from the outfit. |
+| 1:28–1:48 | Voiceover resolves | TBD turns toward the two abandoned frames, then faces front again—rejecting them without touching or acting against them. |
+| 1:48–2:00 | Rebel beat begins | TBD moves back to C and holds, becoming the trigger for Scene 5. |
 
 **Voiceover**
 
 > We shortened what felt too long and softened what sounded too different. Then one voice said: enough. My name is not an inconvenience. My success does not require my disappearance.
 
-**Animation status:** The earlier group animation is archived; a new B7 solo preview is required.
+**Animation status:** The earlier group animation is archived; a new TBD solo preview is required.
 
 ### Scene 5 — Own the Name
 
@@ -365,12 +365,12 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:25 | Rebel hip-hop section begins | B7 holds at C while B1/B2 enter together, reveal their fusion details and take two rear marks. |
-| 0:25–0:55 | Beat grows | B3/B4 enter with badges returned to their full names; B5/B6 enter walking outside the two frames. Each pair performs one clear reveal pose and takes its marked position. |
-| 0:55–1:25 | Strong pulse | B1/B3/B4/B6 form the four rotating-diamond points around B7. B2/B5 hold at two outer marks. The diamond shifts clockwise twice—one taped point per shift. |
-| 1:25–1:40 | **MAKE SPACE.** | On the second diamond shift, B2/B5 join. All six travel quickly to a wide shallow crown: three models fanning on each side of B7. |
+| 0:00–0:25 | Rebel hip-hop section begins | TBD holds at C while Kanika/Advaito enter together, reveal their fusion details and take two rear marks. |
+| 0:25–0:55 | Beat grows | Neha/Pooja enter with badges returned to their full names; Brinto/Pooja (Jag) enter walking outside the two frames. Each pair performs one clear reveal pose and takes its marked position. |
+| 0:55–1:25 | Strong pulse | Kanika/Neha/Pooja/Pooja (Jag) form the four rotating-diamond points around TBD. Advaito/Brinto hold at two outer marks. The diamond shifts clockwise twice—one taped point per shift. |
+| 1:25–1:40 | **MAKE SPACE.** | On the second diamond shift, Advaito/Brinto join. All six travel quickly to a wide shallow crown: three models fanning on each side of TBD. |
 | 1:40–1:50 | Strong beat held | Hold the crown for approximately two performance seconds before the next cue. Every model faces front, full-name badge visible, using a distinct power pose. |
-| 1:50–2:05 | Sharp musical transition | The crown snaps into a tighter inverted V in one direct move; B7 advances to DC as its point. |
+| 1:50–2:05 | Sharp musical transition | The crown snaps into a tighter inverted V in one direct move; TBD advances to DC as its point. |
 | 2:05–2:20 | **FITTING IN ≠ DISAPPEARING** | Hold the final V and intensify—not change—the poses for the last musical hit. |
 
 **Teaching rule:** Diamond → shallow crown → inverted V. Tape all three shapes. The crown must settle completely for a two-second impact hold before the quick V change.
@@ -390,11 +390,11 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 
 | Story unit | Featured models | What they show |
 |---|---:|---|
-| Fitting-In Protocol | B1/B2 | Controlled corporate walks; matching gestures and pressure to blend in |
-| The Name Edit | B3/B4 | Full-name badges become shortened names |
-| The Perfect Frame | B5/B6 | Enter the approved frames, hold polished poses, then step outside them |
-| Identity Declassified | B7 initially | Turns the badge back to the full name and reveals the fusion look; rebellion begins |
-| Act-ending rebel reveal | All seven | Everyone joins B7 with full names and fusion looks; signature formation and final V |
+| Fitting-In Protocol | Kanika/Advaito | Controlled corporate walks; matching gestures and pressure to blend in |
+| The Name Edit | Neha/Pooja | Full-name badges become shortened names |
+| The Perfect Frame | Brinto/Pooja (Jag) | Enter the approved frames, hold polished poses, then step outside them |
+| Identity Declassified | TBD initially | Turns the badge back to the full name and reveals the fusion look; rebellion begins |
+| Act-ending rebel reveal | All seven | Everyone joins TBD with full names and fusion looks; signature formation and final V |
 
 **Final screen:** **FITTING IN ≠ DISAPPEARING**
 
@@ -409,7 +409,7 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 **Show time:** 19:45–28:30  
 **Duration:** 8:45  
 **Formation decision:** Retain the shallow-crown-to-royal-V transformation in **The Global Desi Court**.  
-**Models:** C1–C7  
+**Participants:** Ria, Monali, Sunny, Moitri, Bhanu, Joyeta, **TBD**  
 **Costumes:** grand, intentional Indo-Western fusion
 
 ## Story
@@ -424,12 +424,12 @@ The final seven refuse the demand to choose between being Indian and being Ameri
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:20 | **SELECT: INDIAN / AMERICAN** | C1 enters alone from UC and walks toward the projected **INDIAN** side. C1 shows the Indian half of the fusion outfit with one three-quarter pose. |
-| 0:20–0:42 | Choice remains unresolved | C1 crosses the full stage toward **AMERICAN** and turns to display the contemporary half of the styling. |
-| 0:42–1:05 | **REQUEST DENIED** | C1 moves away from both projected boxes and walks UC→DC through the unlabelled center lane. The final pose displays the complete outfit, not one side. |
-| 1:05–1:20 | **THE MISSION WAS NEVER TO CHOOSE.** | C1 holds the complete-look pose, then exits alone through the center or nearest wing. |
+| 0:00–0:20 | **SELECT: INDIAN / AMERICAN** | Ria enters alone from UC and walks toward the projected **INDIAN** side. Ria shows the Indian half of the fusion outfit with one three-quarter pose. |
+| 0:20–0:42 | Choice remains unresolved | Ria crosses the full stage toward **AMERICAN** and turns to display the contemporary half of the styling. |
+| 0:42–1:05 | **REQUEST DENIED** | Ria moves away from both projected boxes and walks UC→DC through the unlabelled center lane. The final pose displays the complete outfit, not one side. |
+| 1:05–1:20 | **THE MISSION WAS NEVER TO CHOOSE.** | Ria holds the complete-look pose, then exits alone through the center or nearest wing. |
 
-**Story rule:** C1 does not mime rejecting the choices. Walking outside both projected boxes and presenting the full outfit communicates the decision.
+**Story rule:** Ria does not mime rejecting the choices. Walking outside both projected boxes and presenting the full outfit communicates the decision.
 
 ### Scene 2 — Seven Declarations
 
@@ -440,16 +440,16 @@ The final seven refuse the demand to choose between being Indian and being Ameri
 | Time | Screen and voiceover | Movement |
 |---|---|---|
 | 0:00–0:15 | Short voiceover; declaration words appear. | Empty stage establishes that each pair receives its own fashion statement. |
-| 0:15–1:05 | Declaration pair 1 | C2/C3 enter from opposite wings. One reveals Indian textile over a structured Western layer; the other reveals a contemporary detail such as sneakers beneath traditional drape. They pose separately at DL/DR, cross and exit. |
-| 1:05–1:55 | Declaration pair 2 | C4/C5 use medium-width curved routes. Their poses emphasize contrasting silhouettes—one angular/powerful, one flowing/open—before they exchange sides and exit. |
-| 1:55–2:45 | Declaration pair 3 | C6/C7 use the broadest full-stage routes. Each turns once at a side mark to show the outfit profile, then meets the opposite downstage mark. |
-| 2:45–3:00 | **NOT HALF. NOT DIVIDED.** | C6/C7 hold at DL/DR as the screen changes to **SAME ROOTS. NEW ROUTES**, creating a direct handoff into Scene 3. |
+| 0:15–1:05 | Declaration pair 1 | Monali/Sunny enter from opposite wings. One reveals Indian textile over a structured Western layer; the other reveals a contemporary detail such as sneakers beneath traditional drape. They pose separately at DL/DR, cross and exit. |
+| 1:05–1:55 | Declaration pair 2 | Moitri/Bhanu use medium-width curved routes. Their poses emphasize contrasting silhouettes—one angular/powerful, one flowing/open—before they exchange sides and exit. |
+| 1:55–2:45 | Declaration pair 3 | Joyeta/TBD use the broadest full-stage routes. Each turns once at a side mark to show the outfit profile, then meets the opposite downstage mark. |
+| 2:45–3:00 | **NOT HALF. NOT DIVIDED.** | Joyeta/TBD hold at DL/DR as the screen changes to **SAME ROOTS. NEW ROUTES**, creating a direct handoff into Scene 3. |
 
 **Screen declarations:** **FULL NAME / TWO LANGUAGES / TWO TRADITIONS / ONE WHOLE SELF**
 
-**Meaning:** C1's complete-look statement in Scene 1 is the first declaration. C2–C7 provide the remaining six in three pairs. Styling, route and pose communicate each declaration—there are no speeches or group formations in this scene.
+**Meaning:** Ria's complete-look statement in Scene 1 is the first declaration. Monali–TBD provide the remaining six in three pairs. Styling, route and pose communicate each declaration—there are no speeches or group formations in this scene.
 
-**Visibility:** Only one featured pair is visible at a time. C6/C7 remain onstage at the end because their final declaration flows directly into Scene 3.
+**Visibility:** Only one featured pair is visible at a time. Joyeta/TBD remain onstage at the end because their final declaration flows directly into Scene 3.
 
 ### Scene 3 — Same Roots, New Routes
 
@@ -459,13 +459,13 @@ The final seven refuse the demand to choose between being Indian and being Ameri
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:30 | Animated routes spread across the screen. | Continuing from DL/DR, C6/C7 walk the full downstage width and exchange sides. |
+| 0:00–0:30 | Animated routes spread across the screen. | Continuing from DL/DR, Joyeta/TBD walk the full downstage width and exchange sides. |
 | 0:30–0:58 | **SAME ROOTS. NEW ROUTES.** | They move up the outside lanes, then take broad inward curves toward C without colliding. |
 | 0:58–1:20 | The two projected routes cross and continue. | At C, they pass four counts apart and reveal the back/profile details of their outfits with one controlled turn. |
-| 1:20–1:38 | Routes reach new destinations. | C6 finishes at DR and C7 at DL—the opposite destinations from where they began. |
+| 1:20–1:38 | Routes reach new destinations. | Joyeta finishes at DR and TBD at DL—the opposite destinations from where they began. |
 | 1:38–1:45 | Screen: **DIFFERENT ROUTES. COMPLETE SELVES.** | They hold complementary outward-facing poses, then exit opposite wings. |
 
-**Story rule:** The crossing routes carry the meaning. C6/C7 do not need to look at, follow or react to one another.
+**Story rule:** The crossing routes carry the meaning. Joyeta/TBD do not need to look at, follow or react to one another.
 
 ### Scene 4 — The Global Desi Court
 
@@ -475,9 +475,9 @@ The final seven refuse the demand to choose between being Indian and being Ameri
 
 | Time | Screen and voiceover | Movement |
 |---|---|---|
-| 0:00–0:45 | Grand fusion build | C6/C7 enter on the widest curves; C4/C5 follow on medium curves; C2/C3 use the inner routes; C1 enters last through center. Each performer enters once and lands on a taped presentation mark. |
+| 0:00–0:45 | Grand fusion build | Joyeta/TBD enter on the widest curves; Moitri/Bhanu follow on medium curves; Monali/Sunny use the inner routes; Ria enters last through center. Each performer enters once and lands on a taped presentation mark. |
 | 0:45–1:15 | **DESI HEART. GLOBAL MIND.** | All seven hold the first court picture. Each pose reflects the model's declaration: textile reveal, structured silhouette, flowing drape, profile or full-name stance. |
-| 1:15–1:50 | Strong fashion phrases | Three pairs take short two-person presentation walks from the court and return to the same marks. C1 remains the visual anchor rather than repeating another hero walk. |
+| 1:15–1:50 | Strong fashion phrases | Three pairs take short two-person presentation walks from the court and return to the same marks. Ria remains the visual anchor rather than repeating another hero walk. |
 | 1:50–2:10 | Voiceover begins | The seven make one formation transformation into the final signature shape. The exact shape remains open until its animation is approved. |
 | 2:10–2:40 | **BELONGING ACHIEVED** | Hold the final formation long enough for every outfit to be seen; finish with individual poses inside the shared picture and blackout. |
 
@@ -503,11 +503,11 @@ The final seven refuse the demand to choose between being Indian and being Ameri
 
 | Story unit | Featured models | What they show |
 |---|---:|---|
-| Select Your Identity | C1 | Rejects the forced choice between Indian and American identity |
-| Declaration pair 1 | C2/C3 | First paired Indo-Western fashion statement |
-| Declaration pair 2 | C4/C5 | Second paired fashion statement using different styling and routes |
-| Declaration pair 3 / Same Roots, New Routes | C6/C7 | Broadest full-stage crossing; different routes with shared roots |
-| Act-ending Global Desi Court | All seven | Everyone joins C1; final signature formation remains open for visualization |
+| Select Your Identity | Ria | Rejects the forced choice between Indian and American identity |
+| Declaration pair 1 | Monali/Sunny | First paired Indo-Western fashion statement |
+| Declaration pair 2 | Moitri/Bhanu | Second paired fashion statement using different styling and routes |
+| Declaration pair 3 / Same Roots, New Routes | Joyeta/TBD | Broadest full-stage crossing; different routes with shared roots |
+| Act-ending Global Desi Court | All seven | Everyone joins Ria; final signature formation remains open for visualization |
 
 ---
 
@@ -589,7 +589,7 @@ For each act, prepare:
 1. **Full-stage overhead video:** all seven numbered models, absolute show clock and formation names.
 2. **Individual model video:** assigned model in bright color; other models muted; entry, path, pose and exit labeled.
 3. **Formation-only loop:** each transformation repeated twice at half speed and twice at performance speed.
-4. **Act 2 captain video:** B1, B4 and B7 shown together with the rotating-diamond shifts and direct transition to the final inverted V.
+4. **Act 2 captain video:** Kanika, Pooja and TBD shown together with the rotating-diamond shifts and direct transition to the final inverted V.
 
 Before video generation, confirm participant names, which three Act 2 performers are strongest, approximate stage width/depth, and whether entrances are available from both wings and upstage-center.
 
@@ -662,8 +662,8 @@ Before video generation, confirm participant names, which three Act 2 performers
 ## Version 0.9 — August 17, 2026
 
 - Added overhead rehearsal animations for Act 2 Scenes 4 and 5.
-- Corrected the Scene 4–5 handoff so the X ends with B7 at center and Scene 5 begins from the identical picture.
-- Clarified B7's hero-walk return route and the one-pair-at-a-time diagonal passes.
+- Corrected the Scene 4–5 handoff so the X ends with TBD at center and Scene 5 begins from the identical picture.
+- Clarified TBD's hero-walk return route and the one-pair-at-a-time diagonal passes.
 
 ## Version 0.10 — August 18, 2026
 
@@ -694,9 +694,9 @@ Before video generation, confirm participant names, which three Act 2 performers
 ## Version 0.14 — August 21, 2026
 
 - Reconciled every detailed scene timeline with the approved featured-model plans.
-- Assigned Act 1 scenes to A1/A2, A3/A4, A5/A6 and A7 before the all-seven suitcase reveal.
-- Assigned Act 2 scenes to B1/B2, B3/B4, B5/B6 and B7 before the all-seven rebel reveal.
-- Limited Act 3 to C1, then three declaration pairs, then C6/C7's continuous route story before the all-seven court.
+- Assigned Act 1 scenes to Mustufa/Jaya, Preeti/Prerna, Yogita/Akash and TBD before the all-seven suitcase reveal.
+- Assigned Act 2 scenes to Kanika/Advaito, Neha/Pooja, Brinto/Pooja (Jag) and TBD before the all-seven rebel reveal.
+- Limited Act 3 to Ria, then three declaration pairs, then Joyeta/TBD's continuous route story before the all-seven court.
 - Added clearer prop handling, costume reveals, held poses and visual story actions.
 - Removed nonessential group formations from story scenes while preserving every scene name, duration and absolute timestamp.
 - Marked outdated animations as references or regeneration items where the choreography has changed.
