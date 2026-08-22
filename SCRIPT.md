@@ -90,7 +90,7 @@ Strong musical hit.
 **Structure status:** LOCKED — scene order, featured-model assignments and timestamps will not change; poses, emotions and prop details may still be refined.  
 **Duration:** 8–8½ minutes  
 **Show time:** 1:30–10:00  
-**Participants:** Mustufa, Jaya, Preeti, Prerna, Akash, **TBD**, Yogita  
+**Participants:** Mustufa, Jaya, Preeti, **TBD**, Akash, Prerna, Yogita  
 **Props:** Two medium vintage-style suitcases; two long Indian textile panels packed inside; optional winter accessories already worn by models  
 **Costumes:** Indian or Indo-Western base looks covered partially by practical coats, cardigans, neutral shawls or travel layers
 
@@ -136,9 +136,9 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 
 | Time | Audio and screen | Movement |
 |---|---|---|
-| 0:00–0:12 | Wind; snow grows into a storm. **FIRST WINTER** | Preeti/Prerna enter slowly from opposite wings, coats closed and scarves held close. |
+| 0:00–0:12 | Wind; snow grows into a storm. **FIRST WINTER** | Preeti/TBD enter slowly from opposite wings, coats closed and scarves held close. |
 | 0:12–0:42 | Voiceover over restrained music | They follow two broad mirrored curves, pausing once as if bracing against wind. The gesture is large and held—not acted repeatedly. |
-| 0:42–1:05 | Strong instrumental pulse | Preeti reaches DL and Prerna reaches DR. Each removes or loosens one winter accessory, then opens the coat to reveal Indian fabric underneath. |
+| 0:42–1:05 | Strong instrumental pulse | Preeti reaches DL and TBD reaches DR. Each removes or loosens one winter accessory, then opens the coat to reveal Indian fabric underneath. |
 | 1:05–1:20 | Musical hit | They turn three-quarters to display the layered outfits, face front for the final reveal pose, then exit. |
 
 **Voiceover**
@@ -156,12 +156,12 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 |---|---|---|
 | 0:00–0:15 | Loud Indian street: horns, vendors, chai glasses, conversation. Busy neighborhood video. | Stage remains open. |
 | 0:15–0:18 | Hard cut to a silent American suburb. **FIRST HOME. THE SILENCE WAS LOUD.** | Two full seconds of stillness. |
-| 0:18–0:58 | Voiceover with faint clock/breathing pulse | Akash walks UL→DR; TBD walks UR→DL four counts later. Both scan the empty width rather than reacting to each other. |
+| 0:18–0:58 | Voiceover with faint clock/breathing pulse | Akash walks UL→DR; Prerna walks UR→DL four counts later. Both scan the empty width rather than reacting to each other. |
 | 0:58–1:28 | No voiceover; minimal atmosphere | They cross the full downstage width in opposite directions, stop at the far corners and hold their shawls close. |
-| 1:28–1:48 | Near-silence | Akash/TBD turn inward and take slow curved routes toward C, leaving the outer stage visibly empty. |
+| 1:28–1:48 | Near-silence | Akash/Prerna turn inward and take slow curved routes toward C, leaving the outer stage visibly empty. |
 | 1:48–2:00 | One chai-glass clink; faint Indian melody | They meet at C, release the shawls slightly in relief, share one forward-facing pose and exit together. |
 
-**Visibility:** Only Akash/TBD perform this scene. The other five remain offstage or fully dark.
+**Visibility:** Only Akash/Prerna perform this scene. The other five remain offstage or fully dark.
 
 **Voiceover**
 
@@ -197,7 +197,7 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 | Time | Audio and screen | Movement |
 |---|---|---|
 | 0:00–0:25 | Voiceover; **WHAT WE PACKED / WHAT WE CARRIED** | Yogita remains at C beside the diya. Mustufa/Jaya enter once, open the cases and extend one textile each toward center. |
-| 0:25–0:55 | Music builds | Preeti/Prerna enter on mirrored curves and take two middle diagonal marks; Akash/TBD enter from opposite wings and take the widest marks. Each pair performs one costume-facing pose, then holds. |
+| 0:25–0:55 | Music builds | Preeti/TBD enter on mirrored curves and take two middle diagonal marks; Akash/Prerna enter from opposite wings and take the widest marks. Each pair performs one costume-facing pose, then holds. |
 | 0:55–1:12 | Strong classical-crossover music | Yogita completes the only hero walk through the open center lane while the six frame the two textiles. |
 | 1:12–1:30 | Instrumental continues | Everyone makes one direct adjustment into the two clean suitcase-to-DC diagonals—no additional crossing sequence. |
 | 1:30–1:44 | Final voiceover over restrained music | Formation and textiles held. Lighting grows. |
@@ -230,8 +230,8 @@ The suitcases are scenic anchors. They are rolled on once, remain at two fixed u
 | Story unit | Featured models | What they show |
 |---|---:|---|
 | Departure | Mustufa/Jaya | Arrive with the two suitcases; mirrored journey walks |
-| First Winter | Preeti/Prerna | Coats, cold and layered-clothing reveal |
-| First Home: Silence | Akash/TBD | Walk across the empty stage searching for familiar sound |
+| First Winter | Preeti/TBD | Coats, cold and layered-clothing reveal |
+| First Home: Silence | Akash/Prerna | Walk across the empty stage searching for familiar sound |
 | First Festival | Yogita initially | Lights one diya or opens one Indian textile; community begins |
 | Act-ending reveal | All seven | Everyone joins Yogita; suitcases open; final suitcase diagonals |
 
@@ -694,7 +694,7 @@ Before video generation, confirm participant names, which three Act 2 performers
 ## Version 0.14 — August 21, 2026
 
 - Reconciled every detailed scene timeline with the approved featured-model plans.
-- Assigned Act 1 scenes to Mustufa/Jaya, Preeti/Prerna, Akash/TBD and Yogita before the all-seven suitcase reveal.
+- Assigned Act 1 scenes to Mustufa/Jaya, Preeti/TBD, Akash/Prerna and Yogita before the all-seven suitcase reveal.
 - Assigned Act 2 scenes to Kanika/Advaito, Neha/Pooja, Brinto/Pooja (Jag) and TBD before the all-seven rebel reveal.
 - Limited Act 3 to Ria, then Monali/Sunny, Joyeta/Moitri and Bhanu/Tirna, with Bhanu/Tirna's continuous route story before the all-seven court.
 - Added clearer prop handling, costume reveals, held poses and visual story actions.
