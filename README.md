@@ -12,6 +12,10 @@ The hub works on phones, tablets, and computers.
 
 **[Read the complete fashion-show script](SCRIPT.md)**
 
+## Music master
+
+**[View the song selections and source-cut status](AUDIO.md)**
+
 `SCRIPT.md` is the controlled master version. A Google Docs copy may be used for collaboration and comments, with approved revisions transferred back here.
 
 ## How to use it
