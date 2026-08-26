@@ -3,7 +3,7 @@
 ## Beyond the Runway: Roots That Travel
 
 **Document status:** Living working draft  
-**Current version:** 0.17 — August 21, 2026  
+**Current version:** 0.18 — August 26, 2026  
 **Target duration:** 32–35 minutes  
 **Cast:** 20–21 adults, mostly Indian adults ages 35–55; approximately 4–5 men  
 **Rehearsals:** 5–6  
@@ -295,6 +295,8 @@ Scenes 1–4 belong to one featured pair or solo. The full group returns only in
 **Voiceover**
 
 > Learn the rules. Dress correctly. Speak carefully. Be excellent—but never unfamiliar.
+
+**Performance rule:** Movement is crisp, angular and deliberately programmed: straight backs, squared shoulders, fixed forward gaze, sharp beat-led turns and identical approved poses. Faces remain controlled rather than theatrical. No soft hand gestures, mutual glances or expressive interaction. The visual story is that individuality is being suppressed to appear acceptable.
 
 ### Scene 2 — The Name Edit
 
@@ -717,3 +719,8 @@ Before video generation, confirm participant names, which three Act 2 performers
 
 - Clarified the end of Act 2's **Own the Name** animation and choreography.
 - Accelerated the entry and formation travel, added a clean shallow crown with a two-second power-pose hold, then changed quickly into the final inverted V.
+
+## Version 0.18 — August 26, 2026
+
+- Refined Act 2 Scene 1 into a crisp, robotic assimilation protocol with angular movement, fixed focus and matching approved poses.
+- Kept exact track selections in the separate audio master so the participant script remains focused on staging.
