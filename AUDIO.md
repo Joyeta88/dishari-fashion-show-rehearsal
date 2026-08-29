@@ -14,7 +14,7 @@ Source-cut timestamps are draft selections until the exact audio file version is
 | 2 | 3. The Perfect Frame | 13:20–14:55 | 1:35 | **MAYA — Konfused Kid** | `TBD` after exact audio file is uploaded | Selected; the polished frame is an illusion |
 | 2 | 4. Identity Declassified | 14:55–16:55 | 2:00 | **Run It Up — Hanumankind** | `0:00–2:00` | Selected |
 | 2 | 5. Own the Name / Rebel Formation Run | 16:55–19:15 | 2:20 | **Run It Up — continuation** | `2:00–2:54`; extension or reprise `TBD` | Selected song; extension open |
-| 3 | 1. Select Your Identity | 19:45–21:05 | 1:20 | **TBD** | `TBD` | Open |
+| 3 | 1. Select Your Identity | 19:45–21:05 | 1:20 | **N.R.I. — Raja Kumari** | `TBD` after exact audio file is uploaded | Selected; clear voiceover first, then Raja Kumari verse with four projected identity phrases |
 | 3 | 2. Seven Declarations | 21:05–24:05 | 3:00 | **TBD** | `TBD` | Open |
 | 3 | 3. Same Roots, New Routes | 24:05–25:50 | 1:45 | **TBD** | `TBD` | Open |
 | 3 | 4. The Global Desi Court | 25:50–28:30 | 2:40 | **Dhurandhar Title Track — reserved direction** | `TBD` | Reserved for testing; exact section not locked |
